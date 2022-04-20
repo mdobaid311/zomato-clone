@@ -2,6 +2,7 @@ import React from "react";
 import ExploreCard from "./ExploreCard";
 
 const ExploreSection = ({ list, colletionName }) => {
+  
   return (
     <div className="max-width explore-section mt-[16px]">
       <div className="collection-title flex flex-wrap justify-between">
